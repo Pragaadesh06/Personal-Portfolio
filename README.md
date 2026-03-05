@@ -24,4 +24,4 @@ CSS3
 Bootstrap 5
 
 Contact:
-If you’d like to get in touch, you can email me at pragaadesh@gmail.com
+If you’d like to get in touch, you can email me at pragaadesh18@gmail.com
